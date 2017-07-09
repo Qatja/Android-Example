@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Qatja Example</string>
+
+    <string name="connect">Connect</string>
+    <string name="hostname">Host name</string>
+    <string name="identifier">Client identifier</string>
+    <string name="join">Join channel</string>
+</resources>
