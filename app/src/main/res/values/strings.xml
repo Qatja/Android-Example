@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Qatja Example</string>
 
+    <bool name="is_debug">true</bool>
+
     <string name="connect">Connect</string>
     <string name="hostname">Host name</string>
     <string name="identifier">Client identifier</string>

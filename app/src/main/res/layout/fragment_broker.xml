@@ -8,13 +8,13 @@
     tools:context="se.wetcat.qatja.androidexample.fragments.BrokerFragment">
 
     <EditText
-        android:id="@+id/host"
+        android:id="@+id/hostUri"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="@string/hostname"/>
 
     <EditText
-        android:id="@+id/identifier"
+        android:id="@+id/clientIdentifier"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="@string/identifier"/>
